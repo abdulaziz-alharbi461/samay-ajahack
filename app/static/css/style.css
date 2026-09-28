@@ -1,0 +1,1316 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600;700;800;900&family=Tajawal:wght@400;500;700;800;900&family=Cairo:wght@400;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+/* ==========================================================================
+   AUTHENTIC THMANYAH ARABIC DISPLAY & SANS FONTS
+   ========================================================================== */
+/* --- Thmanyah (Primary Family) --- */
+@font-face {
+  font-family: 'Thmanyah';
+  src: url('/static/fonts/thmanyah-display-black.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/a9r2dKNoQcqFiTkwxTUnXgAfjws.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah';
+  src: url('/static/fonts/thmanyah-display-black.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/a9r2dKNoQcqFiTkwxTUnXgAfjws.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah';
+  src: url('/static/fonts/thmanyah-display-bold.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/AAY5hsAWwWmVC7qlScZUGjzCgE8.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah';
+  src: url('/static/fonts/thmanyah-display-medium.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/ahIxG21c1088n0jA0bPQBjKu6M.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah';
+  src: url('/static/fonts/thmanyah-display-regular.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/s1q2LvVNWBbqzMxMBxsexY73tE.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Thmanyah Display --- */
+@font-face {
+  font-family: 'Thmanyah Display';
+  src: url('/static/fonts/thmanyah-display-black.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/a9r2dKNoQcqFiTkwxTUnXgAfjws.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Display';
+  src: url('/static/fonts/thmanyah-display-black.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/a9r2dKNoQcqFiTkwxTUnXgAfjws.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Display';
+  src: url('/static/fonts/thmanyah-display-bold.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/AAY5hsAWwWmVC7qlScZUGjzCgE8.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Display';
+  src: url('/static/fonts/thmanyah-display-medium.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/ahIxG21c1088n0jA0bPQBjKu6M.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Display';
+  src: url('/static/fonts/thmanyah-display-regular.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/s1q2LvVNWBbqzMxMBxsexY73tE.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Thmanyah Sans --- */
+@font-face {
+  font-family: 'Thmanyah Sans';
+  src: url('/static/fonts/thmanyah-sans-black.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/ulQLGTktcl2Qq4AmD6RuVgELZKg.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Sans';
+  src: url('/static/fonts/thmanyah-sans-black.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/ulQLGTktcl2Qq4AmD6RuVgELZKg.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Sans';
+  src: url('/static/fonts/thmanyah-sans-bold.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/LZvgFRUsP7pGWYj3tKxMUrKuhSY.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Sans';
+  src: url('/static/fonts/thmanyah-sans-medium.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/oE98mOPE28KTzUeptOLRIaqW1I.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Sans';
+  src: url('/static/fonts/thmanyah-sans-regular.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/x6EBzvXf1Fi35XhsRoHxePDVo.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Thmanyah Text --- */
+@font-face {
+  font-family: 'Thmanyah Text';
+  src: url('/static/fonts/thmanyah-text-bold.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/L62MixAFhJojtLTRD19wOsCnFg.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Text';
+  src: url('/static/fonts/thmanyah-text-medium.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/bsVNF5mKouPfUJiPWsBKDU324NM.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Text';
+  src: url('/static/fonts/thmanyah-text-regular.woff2') format('woff2'),
+       url('https://framerusercontent.com/assets/3WPjrTAizPcMoDaKDtKdNB0Jo50.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ==========================================================================
+   SMOOTH SCROLLING & GLOBAL ROOT VARIABLES
+   ========================================================================== */
+html {
+  scroll-behavior: smooth !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+}
+
+:root {
+  --bg-gradient-start: #FFFFFF;
+  --bg-gradient-mid: #C9DCFF;
+  --bg-gradient-end: #94B9FF;
+  --bg-header: rgba(255, 255, 255, 0.96);
+  --bg-card: rgba(255, 255, 255, 0.78);
+  --bg-card-hover: rgba(255, 255, 255, 0.92);
+  --border-glass: rgba(255, 255, 255, 0.85);
+  --border-card-subtle: rgba(148, 185, 255, 0.45);
+  --border-glow-hover: rgba(28, 26, 219, 0.4);
+  --accent-royal-blue: #1C1ADB;
+  --accent-royal-blue-hover: #1715B5;
+  --accent-blue-bright: #2563EB;
+  --accent-sky-blue: #94B9FF;
+  --accent-star: #D97706;
+  --text-primary: #0F172A;
+  --text-primary-blue: #1C1ADB;
+  --text-secondary: #334155;
+  --text-muted: #64748B;
+
+  /* Enterprise-grade Snappy Cubic-Bezier Easing Tokens */
+  --ease-snappy: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --duration-instant: 0.15s;
+  --duration-snappy: 0.24s;
+  --duration-fluid: 0.38s;
+  --duration-cinematic: 0.75s;
+}
+
+body {
+  background: linear-gradient(115deg, #FFFFFF 0%, #F0F5FF 20%, #C9DCFF 55%, #94B9FF 100%) no-repeat fixed center top !important;
+  background-color: #FFFFFF !important;
+  color: #1E293B;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* ==========================================================================
+   GLOBAL ARABIC TYPOGRAPHY (100% UNIFIED THMANYAH BRAND IDENTITY)
+   ========================================================================== */
+
+/* 1. Universal Arabic Base Rule: Every element in Arabic mode defaults to Thmanyah */
+html[lang="ar"],
+html[dir="rtl"],
+body.lang-ar,
+body.lang-ar *,
+body.lang-ar *::before,
+body.lang-ar *::after {
+  font-family: 'Thmanyah', 'Thmanyah Sans', 'Thmanyah Display', 'Tajawal', 'Cairo', sans-serif;
+  letter-spacing: 0;
+}
+
+body.lang-ar {
+  direction: rtl;
+  text-align: right;
+  letter-spacing: 0;
+}
+
+/* 2. Major Headings and Card Elements in Arabic: Authentic Heavy Thmanyah Display */
+body.lang-ar h2,
+body.lang-ar h3,
+body.lang-ar h4,
+body.lang-ar h5,
+body.lang-ar h6,
+body.lang-ar .font-display,
+body.lang-ar .card-title,
+body.lang-ar .stat-value {
+  font-family: 'Thmanyah Display', 'Thmanyah', 'Thmanyah Sans', 'Tajawal', sans-serif !important;
+  letter-spacing: 0 !important;
+}
+
+/* Dedicated Brand Title Styling: Authentic Bold Artistic Thmanyah Display ("سماي") */
+body.lang-ar .brand-title,
+body.lang-ar [data-i18n="navTitle"],
+body.lang-ar #nav-brand-title {
+  font-family: 'Thmanyah Display', 'Thmanyah', sans-serif !important;
+  font-weight: 900 !important;
+  letter-spacing: 0 !important;
+  font-size: 1.55rem !important;
+  line-height: 1.2 !important;
+  color: #1C1ADB !important;
+  background: linear-gradient(135deg, #1C1ADB 0%, #2563EB 60%, #1D4ED8 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  filter: drop-shadow(0 2px 8px rgba(28, 26, 219, 0.15)) !important;
+  display: inline-block !important;
+}
+
+body.lang-en .brand-title,
+body.lang-en [data-i18n="navTitle"],
+body.lang-en #nav-brand-title {
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.02em !important;
+  font-size: 1.35rem !important;
+  line-height: 1.2 !important;
+  color: #1C1ADB !important;
+  background: linear-gradient(135deg, #1C1ADB 0%, #2563EB 60%, #1D4ED8 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  filter: drop-shadow(0 2px 6px rgba(28, 26, 219, 0.12)) !important;
+  display: inline-block !important;
+}
+
+/* 3. Navigation Bars, Menus, Action Buttons, Pills, and Badges in Arabic */
+body.lang-ar header,
+body.lang-ar nav,
+body.lang-ar nav a,
+body.lang-ar .nav-link,
+body.lang-ar button,
+body.lang-ar .btn,
+body.lang-ar a.btn,
+body.lang-ar .glass-pill,
+body.lang-ar .filter-btn,
+body.lang-ar [data-i18n*="nav"]:not([data-i18n="navTitle"]),
+body.lang-ar [data-i18n*="btn"],
+body.lang-ar [data-i18n*="Badge"],
+body.lang-ar .badge {
+  font-family: 'Thmanyah Sans', 'Thmanyah', 'Tajawal', sans-serif !important;
+}
+
+/* 4. Body Paragraphs, Descriptions, Form Controls, and Map Elements in Arabic */
+body.lang-ar p,
+body.lang-ar label,
+body.lang-ar input,
+body.lang-ar select,
+body.lang-ar textarea,
+body.lang-ar li,
+body.lang-ar td,
+body.lang-ar th,
+body.lang-ar .leaflet-popup-content,
+body.lang-ar .leaflet-tooltip {
+  font-family: 'Thmanyah Sans', 'Thmanyah', 'Thmanyah Text', 'Tajawal', sans-serif !important;
+}
+
+body.lang-en {
+  direction: ltr;
+  text-align: left;
+}
+
+/* Starfield canvas overlay */
+#star-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+.content-wrapper {
+  position: relative;
+  z-index: 10;
+}
+
+/* Top Navigation Header: Matches clean, near-white solid color to merge seamlessly */
+header {
+  background: rgba(255, 255, 255, 0.96) !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(148, 185, 255, 0.35) !important;
+  box-shadow: 0 4px 20px -2px rgba(28, 26, 219, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02) !important;
+}
+
+header nav a,
+.nav-link {
+  color: #334155 !important;
+  font-weight: 600 !important;
+  transition: color 0.2s ease-in-out;
+}
+
+header nav a:hover,
+.nav-link:hover {
+  color: #1C1ADB !important;
+}
+
+/* Header Brand Identity Logo (Thmanyah-style primary brand mark) */
+.brand-logo-link {
+  display: inline-flex !important;
+  align-items: center !important;
+  text-decoration: none !important;
+  padding: 0.25rem 0 !important;
+  outline: none !important;
+}
+
+.header-brand-logo {
+  height: 2.75rem !important; /* 44px */
+  width: auto !important;
+  max-width: 150px !important;
+  object-fit: contain !important;
+  display: block !important;
+  filter: drop-shadow(0 2px 8px rgba(28, 26, 219, 0.12)) !important;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.brand-logo-link:hover .header-brand-logo {
+  transform: scale(1.04) translateY(-1px) !important;
+  filter: drop-shadow(0 4px 14px rgba(28, 26, 219, 0.22)) !important;
+}
+
+.brand-logo-link:active .header-brand-logo {
+  transform: scale(0.97) !important;
+  transition-duration: 0.08s !important;
+}
+
+@media (max-width: 640px) {
+  .header-brand-logo {
+    height: 2.25rem !important;
+    max-width: 120px !important;
+  }
+}
+
+/* Footer Brand Logo Styling */
+.footer-brand-logo-link {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-decoration: none !important;
+  outline: none !important;
+  padding: 0.25rem 0 !important;
+}
+
+.footer-brand-logo {
+  height: 2.75rem !important; /* 44px */
+  width: auto !important;
+  max-width: 155px !important;
+  object-fit: contain !important;
+  display: block !important;
+  filter: drop-shadow(0 2px 8px rgba(28, 26, 219, 0.12)) !important;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.footer-brand-logo-link:hover .footer-brand-logo {
+  transform: scale(1.05) translateY(-1px) !important;
+  filter: drop-shadow(0 4px 16px rgba(28, 26, 219, 0.22)) !important;
+}
+
+.footer-brand-logo-link:active .footer-brand-logo {
+  transform: scale(0.97) !important;
+  transition-duration: 0.08s !important;
+}
+
+@media (max-width: 640px) {
+  .footer-brand-logo {
+    height: 2.25rem !important;
+    max-width: 130px !important;
+  }
+}
+
+/* Hero Section: Smooth light celestial overlay */
+.hero-bg {
+  position: relative;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.85) 0%, rgba(201, 220, 255, 0.65) 60%, rgba(148, 185, 255, 0.5) 100%),
+              url('https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1920&q=85') no-repeat center top !important;
+  background-size: cover;
+  background-attachment: fixed;
+  border-bottom: 1px solid rgba(148, 185, 255, 0.4) !important;
+}
+
+.nebula-glow {
+  position: absolute;
+  width: 550px;
+  height: 550px;
+  border-radius: 50%;
+  filter: blur(130px);
+  background: radial-gradient(circle, rgba(148, 185, 255, 0.45) 0%, rgba(201, 220, 255, 0.2) 70%, transparent 100%);
+  opacity: 0.45;
+  pointer-events: none;
+}
+
+/* Clean Frosted Glassmorphism Containers Over Light Gradient */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.76) !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.88) !important;
+  box-shadow: 0 10px 30px -5px rgba(28, 26, 219, 0.07), 0 2px 8px rgba(0, 0, 0, 0.03) !important;
+  color: #1E293B !important;
+  transition: transform var(--duration-snappy) var(--ease-snappy),
+              box-shadow var(--duration-snappy) var(--ease-snappy),
+              border-color var(--duration-snappy) var(--ease-snappy),
+              background-color var(--duration-snappy) var(--ease-snappy) !important;
+  will-change: transform, box-shadow;
+}
+
+.glass-panel:hover {
+  background: rgba(255, 255, 255, 0.94) !important;
+  border-color: rgba(148, 185, 255, 0.75) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 16px 36px -6px rgba(28, 26, 219, 0.13), 0 4px 12px rgba(0, 0, 0, 0.04) !important;
+}
+
+.glass-pill {
+  background: rgba(255, 255, 255, 0.85) !important;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(148, 185, 255, 0.55) !important;
+  color: #1E293B !important;
+  box-shadow: 0 2px 6px rgba(28, 26, 219, 0.04) !important;
+  transition: all var(--duration-instant) var(--ease-snappy) !important;
+  will-change: transform, box-shadow;
+}
+
+.glass-pill:hover {
+  transform: translateY(-2px);
+  background: #FFFFFF !important;
+  border-color: #1C1ADB !important;
+  color: #1C1ADB !important;
+  box-shadow: 0 4px 14px rgba(28, 26, 219, 0.15) !important;
+}
+
+.glass-pill:active {
+  transform: translateY(0) scale(0.97);
+  transition-duration: 0.08s;
+}
+
+.glass-pill.active {
+  background: #1C1ADB !important;
+  border-color: #1C1ADB !important;
+  color: #FFFFFF !important;
+  box-shadow: 0 4px 16px rgba(28, 26, 219, 0.3) !important;
+}
+
+/* ==========================================================================
+   Interactive Filter & Tag Buttons (Complete Visual Feedback & State)
+   ========================================================================== */
+.filter-btn {
+  position: relative !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0.375rem !important;
+  padding: 0.45rem 0.95rem !important;
+  border-radius: 0.625rem !important;
+  font-size: 0.75rem !important;
+  font-weight: 600 !important;
+  line-height: 1.25 !important;
+  cursor: pointer !important;
+  user-select: none !important;
+  outline: none !important;
+  border: 1px solid rgba(148, 185, 255, 0.6) !important;
+  background: rgba(255, 255, 255, 0.85) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
+  color: #334155 !important;
+  box-shadow: 0 2px 6px rgba(28, 26, 219, 0.04) !important;
+  transition: all var(--duration-instant) var(--ease-snappy) !important;
+  will-change: transform, box-shadow;
+}
+
+/* 1. Hover Effect */
+.filter-btn:hover:not(:disabled) {
+  transform: translateY(-2px) !important;
+  background: #FFFFFF !important;
+  border-color: #1C1ADB !important;
+  color: #1C1ADB !important;
+  box-shadow: 0 6px 18px rgba(28, 26, 219, 0.15) !important;
+}
+
+/* 2. Click / Active Effect */
+.filter-btn:active:not(:disabled) {
+  transform: translateY(0) scale(0.97) !important;
+  transition-duration: 0.08s !important;
+}
+
+/* 3. Persistent Selected State */
+.filter-btn.active,
+.filter-btn[aria-pressed="true"] {
+  background: linear-gradient(135deg, #2422D6 0%, #1C1ADB 60%, #1715B5 100%) !important;
+  border-color: #1C1ADB !important;
+  color: #FFFFFF !important;
+  font-weight: 700 !important;
+  box-shadow: 0 6px 20px rgba(28, 26, 219, 0.32) !important;
+}
+
+/* Active indicator dot */
+.filter-btn.active::after,
+.filter-btn[aria-pressed="true"]::after {
+  content: '' !important;
+  display: inline-block !important;
+  width: 6px !important;
+  height: 6px !important;
+  border-radius: 50% !important;
+  background: #94B9FF !important;
+  box-shadow: 0 0 8px #94B9FF, 0 0 12px #FFFFFF !important;
+  animation: celestial-pulse 2s infinite ease-in-out !important;
+  flex-shrink: 0 !important;
+}
+
+body.lang-ar .filter-btn.active::after,
+body.lang-ar .filter-btn[aria-pressed="true"]::after {
+  margin-right: 0.35rem !important;
+  margin-left: 0 !important;
+}
+
+body.lang-en .filter-btn.active::after,
+body.lang-en .filter-btn[aria-pressed="true"]::after {
+  margin-left: 0.35rem !important;
+  margin-right: 0 !important;
+}
+
+.filter-btn.active:hover:not(:disabled),
+.filter-btn[aria-pressed="true"]:hover:not(:disabled) {
+  transform: translateY(-2px) scale(1.02) !important;
+  box-shadow: 0 8px 24px rgba(28, 26, 219, 0.4) !important;
+}
+
+/* Hero Showcase Card Container: Clean White Frosted Glass / bg-white */
+.hero-showcase-card {
+  position: relative;
+  background: #ffffff !important;
+  border: 1px solid rgba(148, 185, 255, 0.45) !important;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-radius: 1.75rem;
+  box-shadow: 0 20px 40px -15px rgba(28, 26, 219, 0.08), 
+              0 0 1px 1px rgba(255, 255, 255, 0.9) inset !important;
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.hero-showcase-card:hover {
+  border-color: rgba(148, 185, 255, 0.7) !important;
+  box-shadow: 0 25px 50px -15px rgba(28, 26, 219, 0.12), 
+              0 0 1px 1px #ffffff inset !important;
+}
+
+/* Hero Typography Hierarchy - Refined Professional High-End Aesthetic */
+.hero-title-container {
+  margin-top: 0.5rem !important;
+  margin-bottom: 1.25rem !important;
+  max-width: 50rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+}
+
+/* Main Heading: Authentic Arabic font "Thmanyah" (ثمانية) with smooth blue & sky blue/cyan gradient */
+.hero-title-main,
+h1.hero-title-main {
+  display: block !important;
+  font-size: clamp(1.65rem, 3.1vw, 2.45rem) !important;
+  line-height: 1.62 !important;
+  letter-spacing: normal !important;
+  margin-top: 0.25rem !important;
+  margin-bottom: 0.75rem !important;
+  padding: 0 0.5rem !important;
+  text-align: center !important;
+  box-decoration-break: clone !important;
+  -webkit-box-decoration-break: clone !important;
+}
+
+/* Arabic Heading: Authentic "Thmanyah" font with exact shades of blue and sky blue/cyan from brand logo */
+body.lang-ar .hero-title-main,
+body.lang-ar h1.hero-title-main {
+  font-family: 'Thmanyah', 'Thmanyah Display', 'Thmanyah Sans', 'Tajawal', sans-serif !important;
+  font-weight: 800 !important;
+  line-height: 1.62 !important;
+  letter-spacing: normal !important;
+  /* Smooth CSS text gradient using exact shades of blue and sky blue/cyan from brand logo */
+  background: linear-gradient(135deg, #0F172A 0%, #1816DD 30%, #1D4ED8 60%, #0284C7 85%, #0EA5E9 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  color: transparent !important;
+  text-shadow: none !important;
+  filter: none !important;
+}
+
+/* English Heading: Plus Jakarta Sans with exact shades of blue and sky blue/cyan from brand logo */
+body.lang-en .hero-title-main,
+body.lang-en h1.hero-title-main {
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+  font-weight: 800 !important;
+  line-height: 1.35 !important;
+  letter-spacing: -0.02em !important;
+  background: linear-gradient(135deg, #0F172A 0%, #1816DD 30%, #1D4ED8 60%, #0284C7 85%, #0EA5E9 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  color: transparent !important;
+  text-shadow: none !important;
+  filter: none !important;
+}
+
+/* Sub-Heading Tagline */
+.hero-title-sub {
+  display: block !important;
+  margin-top: 0.25rem !important;
+  margin-bottom: 1.25rem !important;
+  text-align: center !important;
+}
+
+.gradient-title-accent {
+  display: inline-block !important;
+  font-size: clamp(0.95rem, 1.4vw, 1.15rem) !important;
+  font-weight: 700 !important;
+  letter-spacing: 0 !important;
+  background: linear-gradient(135deg, #1E40AF 0%, #2563EB 50%, #0284C7 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  color: transparent !important;
+  text-shadow: none !important;
+  filter: none !important;
+}
+
+body.lang-ar .gradient-title-accent {
+  font-family: 'Thmanyah', 'Thmanyah Sans', 'Tajawal', sans-serif !important;
+}
+
+body.lang-en .gradient-title-accent {
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+}
+
+/* 4. Descriptive Paragraph: Clean, readable font (Tajawal or Cairo) in neutral slate-700 color with high contrast (> 8.5:1) */
+.hero-subtitle {
+  font-size: clamp(0.95rem, 1.4vw, 1.05rem) !important;
+  line-height: 1.9 !important;
+  color: #334155 !important; /* Neutral high-contrast slate-700 tone on clean white (> 8.5:1 contrast ratio) */
+  font-weight: 400 !important;
+  text-shadow: none !important;
+  max-width: 36rem !important; /* Constrained length for optimal typographic measure (~60 characters) */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+body.lang-ar .hero-subtitle {
+  font-family: 'Tajawal', 'Cairo', sans-serif !important;
+  line-height: 1.95 !important;
+}
+
+body.lang-en .hero-subtitle {
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+  line-height: 1.7 !important;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F0F5FF;
+}
+::-webkit-scrollbar-thumb {
+  background: #C9DCFF;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #1C1ADB;
+}
+
+/* Leaflet map style */
+.leaflet-container {
+  background: #EAF1FF !important;
+  font-family: inherit !important;
+  border-radius: 1rem;
+  border: 1px solid rgba(148, 185, 255, 0.5) !important;
+  box-shadow: 0 10px 30px -10px rgba(28, 26, 219, 0.08) !important;
+}
+
+.leaflet-popup-content-wrapper {
+  background: rgba(255, 255, 255, 0.96) !important;
+  backdrop-filter: blur(14px) !important;
+  -webkit-backdrop-filter: blur(14px) !important;
+  border: 1px solid rgba(148, 185, 255, 0.6) !important;
+  color: #1E293B !important;
+  border-radius: 12px !important;
+  box-shadow: 0 16px 35px -5px rgba(28, 26, 219, 0.15) !important;
+}
+
+.leaflet-popup-tip {
+  background: #FFFFFF !important;
+}
+
+/* Custom glowing pulse for Bortle 1 sites */
+.pulse-marker {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #1C1ADB;
+  border: 2px solid #FFFFFF;
+  box-shadow: 0 0 15px rgba(28, 26, 219, 0.5);
+  animation: pulse-ring 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+}
+
+@keyframes pulse-ring {
+  0% {
+    box-shadow: 0 0 0 0 rgba(28, 26, 219, 0.5);
+  }
+  70% {
+    box-shadow: 0 0 0 16px rgba(28, 26, 219, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(28, 26, 219, 0);
+  }
+}
+
+/* Modal styles */
+.modal-backdrop {
+  background: rgba(15, 23, 42, 0.45) !important;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+#booking-modal .glass-panel {
+  background: rgba(255, 255, 255, 0.96) !important;
+  border: 1px solid rgba(148, 185, 255, 0.6) !important;
+  box-shadow: 0 25px 60px -15px rgba(28, 26, 219, 0.2), 0 10px 25px rgba(0, 0, 0, 0.08) !important;
+}
+
+/* Sliders */
+input[type=range] {
+  accent-color: #1C1ADB;
+}
+
+/* Form Inputs, Selects, and Textareas */
+input[type="text"],
+input[type="tel"],
+input[type="number"],
+input[type="date"],
+select,
+textarea {
+  background: rgba(255, 255, 255, 0.95) !important;
+  border: 1px solid rgba(148, 185, 255, 0.65) !important;
+  color: #0F172A !important;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.04) !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: #1C1ADB !important;
+  box-shadow: 0 0 0 3px rgba(28, 26, 219, 0.15), inset 0 1px 2px rgba(0, 0, 0, 0.02) !important;
+  outline: none !important;
+  color: #0F172A !important;
+}
+
+/* Sandbox Calculated Box Theme */
+#sandbox-section .bg-gradient-to-br {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(201, 220, 255, 0.75) 100%) !important;
+  border: 1px solid rgba(148, 185, 255, 0.75) !important;
+  box-shadow: 0 12px 35px -5px rgba(28, 26, 219, 0.12), 0 2px 8px rgba(0, 0, 0, 0.03) !important;
+}
+
+/* ==========================================================================
+   Global Headings & Primary Text Color in Authentic Royal Blue
+   ========================================================================== */
+h2, h3, h4,
+.section-title,
+[data-i18n="directoryTitle"],
+[data-i18n="mapSectionTitle"],
+[data-i18n="forecastSectionTitle"],
+[data-i18n="sandboxTitle"],
+[data-i18n="recommendTitle"],
+[data-i18n="todayClarityTitle"],
+[data-i18n="subScoresTitle"],
+[data-i18n="forecastChartTitle"],
+[data-i18n="modalBookingTitle"] {
+  color: #1C1ADB !important;
+  background: linear-gradient(135deg, #1C1ADB 0%, #2563EB 60%, #1D4ED8 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  filter: drop-shadow(0 2px 4px rgba(28, 26, 219, 0.08)) !important;
+}
+
+/* Header & Footer styling for reference image gradient theme */
+footer {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.92) 0%, rgba(201, 220, 255, 0.5) 100%) !important;
+  border-top: 1px solid rgba(148, 185, 255, 0.45) !important;
+  box-shadow: 0 -10px 30px -10px rgba(28, 26, 219, 0.05) !important;
+  color: #475569 !important;
+}
+
+/* Progress bar tracks */
+.bg-slate-800 {
+  background-color: rgba(201, 220, 255, 0.5) !important;
+  border: 1px solid rgba(148, 185, 255, 0.4) !important;
+}
+
+/* Card titles in spot directory and recommendations */
+.spot-card-title,
+.card-title,
+#spots-grid h3,
+#recommend-results h4 {
+  color: #1C1ADB !important;
+  background: linear-gradient(135deg, #1C1ADB 0%, #2563EB 70%, #1E40AF 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  filter: none !important;
+}
+
+/* ==========================================================================
+   Guaranteed High-Contrast Data Metrics (45,200, 21.98, SQM, SCI, etc.)
+   ========================================================================== */
+#stat-area-val {
+  color: #1C1ADB !important;
+  text-shadow: 0 2px 10px rgba(28, 26, 219, 0.15) !important;
+  font-weight: 900 !important;
+}
+
+#stat-darkness-val {
+  color: #1E40AF !important; /* Deep professional blue */
+  text-shadow: 0 2px 8px rgba(30, 64, 175, 0.15) !important;
+  font-weight: 900 !important;
+}
+
+#stat-spots-val {
+  color: #1C1ADB !important;
+  text-shadow: 0 2px 10px rgba(28, 26, 219, 0.15) !important;
+  font-weight: 900 !important;
+}
+
+#stat-camps-val {
+  color: #0EA5E9 !important; /* Vibrant celestial cyan / sky blue */
+  text-shadow: 0 2px 8px rgba(14, 165, 233, 0.2) !important;
+  font-weight: 900 !important;
+}
+
+#sandbox-score-val,
+#today-sci-score {
+  color: #1C1ADB !important;
+  text-shadow: 0 4px 16px rgba(28, 26, 219, 0.2) !important;
+  font-weight: 900 !important;
+}
+
+#sandbox-nelm-val {
+  color: #92400E !important;
+  font-weight: 700 !important;
+}
+
+/* ==========================================================================
+   Weather / Astronomical Metric Progress Bars (Unified Brand Gradient)
+   ========================================================================== */
+.metric-progress-bar,
+#sub-cloud-bar,
+#sub-moon-bar,
+#sub-darkness-bar,
+#sub-transparency-bar,
+#sub-seeing-bar {
+  background: linear-gradient(90deg, #1816DD 0%, #2563EB 50%, #0EA5E9 100%) !important;
+  box-shadow: 0 1px 6px rgba(14, 165, 233, 0.28) !important;
+}
+
+body.lang-ar .metric-progress-bar,
+body.lang-ar #sub-cloud-bar,
+body.lang-ar #sub-moon-bar,
+body.lang-ar #sub-darkness-bar,
+body.lang-ar #sub-transparency-bar,
+body.lang-ar #sub-seeing-bar {
+  background: linear-gradient(to left, #1816DD 0%, #2563EB 50%, #0EA5E9 100%) !important;
+}
+
+body.lang-en .metric-progress-bar,
+body.lang-en #sub-cloud-bar,
+body.lang-en #sub-moon-bar,
+body.lang-en #sub-darkness-bar,
+body.lang-en #sub-transparency-bar,
+body.lang-en #sub-seeing-bar {
+  background: linear-gradient(to right, #1816DD 0%, #2563EB 50%, #0EA5E9 100%) !important;
+}
+
+#sub-cloud-val,
+#sub-moon-val,
+#sub-darkness-val,
+#sub-transparency-val,
+#sub-seeing-val,
+#val-cloud,
+#val-moon,
+#val-bortle,
+#val-humidity,
+#val-wind,
+#today-nelm-val,
+#sandbox-nelm-val {
+  color: #1E40AF !important;
+  font-weight: 700 !important;
+}
+
+/* ==========================================================================
+   Status Text Elements (Unified Celestial Sky Blue Brand Theme)
+   ========================================================================== */
+#today-sci-label,
+#sandbox-label-val,
+#today-window-val,
+.status-text-celestial {
+  color: #0284C7 !important;
+  font-weight: 700 !important;
+  text-shadow: 0 1px 4px rgba(2, 132, 199, 0.15) !important;
+}
+
+/* Primary CTA & Interactive Button Accents */
+[class*="from-cyan-500"][class*="to-indigo-600"],
+[class*="from-cyan-500"][class*="to-blue-600"],
+.nav-book-btn,
+#btn-nav-book,
+#btn-run-recommend {
+  background: linear-gradient(135deg, #2422D6 0%, #1C1ADB 60%, #1715B5 100%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  color: #FFFFFF !important;
+  box-shadow: 0 4px 16px rgba(28, 26, 219, 0.28) !important;
+  transition: all 0.25s ease-in-out !important;
+  text-decoration: none !important;
+}
+
+[class*="from-cyan-500"][class*="to-indigo-600"]:hover,
+[class*="from-cyan-500"][class*="to-blue-600"]:hover,
+.nav-book-btn:hover,
+#btn-nav-book:hover,
+#btn-run-recommend:hover {
+  transform: translateY(-2px) scale(1.02) !important;
+  box-shadow: 0 8px 24px rgba(28, 26, 219, 0.4) !important;
+  border-color: #94B9FF !important;
+  color: #FFFFFF !important;
+}
+
+/* Dedicated Navigation Booking CTA */
+.nav-book-btn,
+#btn-nav-book {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 0.5rem !important;
+  font-weight: 700 !important;
+  cursor: pointer !important;
+}
+
+.nav-book-btn:active,
+#btn-nav-book:active {
+  transform: translateY(0) scale(0.97) !important;
+  box-shadow: 0 2px 8px rgba(28, 26, 219, 0.2) !important;
+}
+
+/* Compatibility / Match Percentage Text Gradient */
+.compatibility-score-gradient {
+  background: linear-gradient(135deg, #1816DD 0%, #2563EB 50%, #0EA5E9 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  color: transparent !important;
+  font-weight: 900 !important;
+  display: inline-block !important;
+  filter: drop-shadow(0 1px 2px rgba(24, 22, 221, 0.12)) !important;
+}
+
+/* Astro-Camp Badge & Booking Buttons (Unified Brand Gradient Scheme) */
+.camp-badge,
+.btn-camp-book {
+  background: linear-gradient(135deg, #2422D6 0%, #1C1ADB 60%, #1715B5 100%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  color: #FFFFFF !important;
+  font-weight: 700 !important;
+  box-shadow: 0 4px 16px rgba(28, 26, 219, 0.25) !important;
+  text-decoration: none !important;
+}
+
+.btn-camp-book {
+  cursor: pointer !important;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.btn-camp-book:hover {
+  background: linear-gradient(135deg, #1816DD 0%, #1C1ADB 50%, #1210A8 100%) !important;
+  transform: translateY(-1.5px) scale(1.02) !important;
+  box-shadow: 0 8px 24px rgba(28, 26, 219, 0.4) !important;
+  border-color: #94B9FF !important;
+  color: #FFFFFF !important;
+}
+
+.btn-camp-book:active {
+  transform: translateY(0) scale(0.97) !important;
+  box-shadow: 0 2px 8px rgba(28, 26, 219, 0.2) !important;
+}
+
+.nav-book-btn svg,
+#btn-nav-book svg,
+.btn-camp-book svg,
+.camp-badge svg {
+  color: #FFFFFF !important;
+  stroke: #FFFFFF !important;
+  flex-shrink: 0 !important;
+}
+
+/* Celestial pulse animation for active filter tags and badges */
+@keyframes celestial-pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+    box-shadow: 0 0 8px #94B9FF, 0 0 12px #FFFFFF;
+  }
+  50% {
+    opacity: 0.5;
+    transform: scale(0.8);
+    box-shadow: 0 0 2px #94B9FF;
+  }
+}
+
+/* Quick responsive click feedback for all interactive buttons across the platform */
+button:active:not(:disabled),
+.btn:active:not(:disabled) {
+  transform: scale(0.97);
+  transition-duration: 0.08s;
+}
+
+/* High Contrast Class Boosters for Text Elements */
+.text-slate-400 {
+  color: #475569 !important;
+}
+.text-slate-300 {
+  color: #334155 !important;
+}
+.text-slate-500 {
+  color: #64748B !important;
+}
+
+/* Footer Metadata Links & Text (Exact Brand Purple-Blue Color Scheme) */
+footer [data-i18n="footerProject"],
+footer [data-i18n="footerStandards"],
+footer a[href="/docs"],
+.footer-meta-text {
+  color: #1C1ADB !important;
+  font-weight: 600 !important;
+  transition: color 0.2s ease-in-out !important;
+}
+
+footer a[href="/docs"]:hover {
+  color: #1715B5 !important;
+  text-decoration: underline !important;
+}
+
+/* ==========================================================================
+   Map Layout & Astrotourism Spots Sidebar (Interactive Side List)
+   ========================================================================== */
+@media (min-width: 1024px) {
+  /* In Arabic RTL, row-reverse places the sidebar on the right and map on the left */
+  body.lang-ar .map-layout-container {
+    flex-direction: row-reverse !important;
+  }
+  /* In English LTR, row places the map on the left and sidebar on the right */
+  body.lang-en .map-layout-container {
+    flex-direction: row !important;
+  }
+}
+
+#map-spots-sidebar {
+  background: rgba(255, 255, 255, 0.85) !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(148, 185, 255, 0.55) !important;
+  box-shadow: 0 10px 25px -5px rgba(28, 26, 219, 0.08), 0 8px 10px -6px rgba(28, 26, 219, 0.04);
+}
+
+#map-sidebar-list::-webkit-scrollbar {
+  width: 5px;
+}
+#map-sidebar-list::-webkit-scrollbar-track {
+  background: rgba(241, 245, 249, 0.6);
+  border-radius: 9999px;
+}
+#map-sidebar-list::-webkit-scrollbar-thumb {
+  background: rgba(148, 185, 255, 0.65);
+  border-radius: 9999px;
+}
+#map-sidebar-list::-webkit-scrollbar-thumb:hover {
+  background: #1C1ADB;
+}
+
+/* Sidebar Location Button Cards */
+.map-sidebar-btn {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.75rem 0.95rem;
+  border-radius: 0.9rem;
+  background: rgba(240, 246, 255, 0.8);
+  border: 1px solid rgba(148, 185, 255, 0.45);
+  cursor: pointer;
+  transition: all var(--duration-snappy) var(--ease-snappy);
+  position: relative;
+  overflow: hidden;
+  text-align: inherit;
+  will-change: transform, box-shadow;
+}
+
+.map-sidebar-btn:hover {
+  background: #FFFFFF !important;
+  border-color: #2563EB !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(28, 26, 219, 0.12) !important;
+}
+
+.map-sidebar-btn.active {
+  background: linear-gradient(135deg, rgba(28, 26, 219, 0.1) 0%, rgba(37, 99, 235, 0.18) 100%) !important;
+  border: 1.5px solid #1C1ADB !important;
+  box-shadow: 0 4px 18px rgba(28, 26, 219, 0.22) !important;
+  transform: translateY(-1px);
+}
+
+body.lang-ar .map-sidebar-btn.active::before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: #1C1ADB;
+  border-radius: 0 0.85rem 0.85rem 0;
+}
+
+body.lang-en .map-sidebar-btn.active::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: #1C1ADB;
+  border-radius: 0.85rem 0 0 0.85rem;
+}
+
+.map-sidebar-btn .spot-btn-title {
+  font-size: 0.84rem;
+  font-weight: 700;
+  color: #1C1ADB;
+  line-height: 1.4;
+  transition: color 0.18s ease;
+}
+
+.map-sidebar-btn:hover .spot-btn-title {
+  color: #1715B5;
+}
+
+.map-sidebar-btn .spot-btn-sub {
+  font-size: 0.72rem;
+  color: #64748B;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+/* Cinematic Leaflet Marker Pulse Animation on Selection */
+@keyframes marker-pulse-glow {
+  0% { transform: scale(1); filter: drop-shadow(0 0 2px #2563EB); }
+  40% { transform: scale(1.3); filter: drop-shadow(0 0 16px #0EA5E9); }
+  100% { transform: scale(1); filter: drop-shadow(0 0 2px #2563EB); }
+}
+
+.pulse-marker-active {
+  animation: marker-pulse-glow 0.8s var(--ease-snappy) !important;
+  z-index: 1000 !important;
+}
+
+/* ==========================================================================
+   Smooth Scroll-Reveal Animations (High-End Intersection Observer Engine)
+   ========================================================================== */
+.reveal-on-scroll {
+  opacity: 0;
+  transform: translate3d(0, 20px, 0);
+  transition: opacity var(--duration-smooth) var(--ease-snappy),
+              transform var(--duration-smooth) var(--ease-snappy);
+  will-change: opacity, transform;
+}
+
+.reveal-on-scroll.is-revealed {
+  opacity: 1 !important;
+  transform: translate3d(0, 0, 0) !important;
+}
+
+/* Subtle scale variant for hero card, map panel, and showcase elements */
+.reveal-on-scroll.reveal-scale {
+  transform: translate3d(0, 18px, 0) scale(0.99);
+}
+
+.reveal-on-scroll.reveal-scale.is-revealed {
+  opacity: 1 !important;
+  transform: translate3d(0, 0, 0) scale(1) !important;
+}
+
+/* Staggered transition delays for metric cards, forecast days, and directory grids */
+.reveal-delay-1 { transition-delay: 0.07s; }
+.reveal-delay-2 { transition-delay: 0.14s; }
+.reveal-delay-3 { transition-delay: 0.21s; }
+.reveal-delay-4 { transition-delay: 0.28s; }
+.reveal-delay-5 { transition-delay: 0.35s; }
+.reveal-delay-6 { transition-delay: 0.42s; }
+.reveal-delay-7 { transition-delay: 0.49s; }
+
+/* Accessibility: respect user preference for reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .reveal-on-scroll {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}
+
+/* ==========================================================================
+   Smooth Number-Counter Typography (Zero Layout Shift & Tabular Numbers)
+   ========================================================================== */
+.animate-counter,
+.day-sci-val,
+.rec-score-val,
+#stat-spots-val,
+#stat-camps-val,
+#stat-darkness-val,
+#stat-area-val,
+#today-sci-score,
+#today-nelm-val,
+#sub-cloud-val,
+#sub-moon-val,
+#sub-darkness-val,
+#sub-transparency-val,
+#sub-seeing-val,
+#sandbox-score-val,
+#sandbox-nelm-val {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+  display: inline-block;
+  white-space: nowrap;
+}

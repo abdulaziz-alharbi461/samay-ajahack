@@ -1,0 +1,424 @@
+[
+  {
+    "id": "ksrnr-khunfah-sanctuary",
+    "name_en": "Al-Nafud Dark Sky Sanctuary - King Salman Royal Reserve (Al-Khunfah Core)",
+    "name_ar": "محمية سماء النفود المظلمة - قطاع الخنفة بمحمية الملك سلمان الملكية",
+    "type": "sanctuary",
+    "category": "International Dark Sky Park Core Zone (Dec 2025)",
+    "royal_reserve": "King Salman bin Abdulaziz Royal Natural Reserve (KSRNR)",
+    "royal_reserve_ar": "محمية الملك سلمان بن عبدالعزيز الملكية",
+    "bortle_class": 1,
+    "sqm_value": 21.98,
+    "latitude": 28.3200,
+    "longitude": 40.4500,
+    "elevation_m": 910,
+    "distance_from_hail_km": 135,
+    "access_difficulty": "4x4 Expedition & Ranger Permit",
+    "access_difficulty_ar": "مركبات دفع رباعي وتصريح حماية بيئية",
+    "description_en": "The prime astronomical core zone of the Al-Nafud Dark Sky Park, situated within the vast King Salman bin Abdulaziz Royal Natural Reserve (KSRNR - Al-Khunfah sector). Boasts zero light pollution (SQM 21.98), crystal-clear desert air, and an uninterrupted 360-degree horizon.",
+    "description_ar": "النواة الفلكية الرئيسية لمحمية سماء النفود المظلمة الواقعة ضمن النطاق الشاسع لمحمية الملك سلمان بن عبدالعزيز الملكية (قطاع الخنفة). تسجل عتمة استثنائية (SQM 21.98) مع انعدام تام لأي تلوث ضوئي بشري وأفق صحراوي مفتوح بزاوية 360 درجة.",
+    "amenities": [
+      "DarkSky International Verified Sanctuary",
+      "KSRNR Environmental Ranger Station",
+      "Leveled Telescope Concrete Observation Pads",
+      "Emergency Satellite S.O.S Relay Station",
+      "Zero Light Emission Regulations"
+    ],
+    "amenities_ar": [
+      "محمية معتمدة دولياً من منظمة السماء المظلمة (DarkSky)",
+      "نقطة مراقبة ودوريات بيئية لمحمية الملك سلمان",
+      "منصات خرسانية مستوية لتثبيت التلسكوبات الفلكية",
+      "محطة استغاثة واتصال عبر الأقمار الصناعية",
+      "لوائح صارمة لمنع أي انبعاث ضوئي صناعي"
+    ],
+    "highlights": [
+      "Naked-eye limiting magnitude exceeds 7.7+",
+      "Airglow ripples and Zodiacal light visible across the ecliptic",
+      "Full galactic bulge and Messier catalog objects visible without filters"
+    ],
+    "highlights_ar": [
+      "القدر الظاهري الحدي للعين المجردة يتجاوز 7.7+",
+      "ظاهرة الوهج الجوي والضوء البروجي مرئية بالعين على طول مسار الشمس",
+      "مركز مجرة درب التبانة وسدم مسييه مرئية بدون أي فلاتر"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ISS-64_Jubba_with_Nefud_Desert%2C_Saudi_Arabia.jpg",
+    "contact_phone": "+966 11 200 4400",
+    "booking_price_sar": 0,
+    "is_camp": false,
+    "has_telescopes": true
+  },
+  {
+    "id": "jubbah-ghadha-camp",
+    "name_en": "Al-Ghadha Heritage & Stargazing Camp - Jubbah Oasis",
+    "name_ar": "مخيم ومنتجع الغضا الريفي الفلكي - واحة جبة التراثية",
+    "type": "camp",
+    "category": "Certified Desert Eco-Camp & Stargazing Lodge",
+    "royal_reserve": "King Salman Royal Reserve Buffer Zone (Jubbah)",
+    "royal_reserve_ar": "محمية الملك سلمان الملكية (نطاق حماية جبة)",
+    "bortle_class": 2,
+    "sqm_value": 21.82,
+    "latitude": 28.0125,
+    "longitude": 40.9280,
+    "elevation_m": 825,
+    "distance_from_hail_km": 98,
+    "access_difficulty": "Paved Highway (Hail-Jubbah Rd)",
+    "access_difficulty_ar": "طريق سريع معبد بالكامل (طريق حائل - جبة)",
+    "description_en": "A licensed luxury heritage desert camp in the historic oasis of Jubbah. Blends authentic Haili hospitality with high-end astronomical viewing, featuring on-site Dobsonian telescopes, guided laser star-tours, and climate-controlled Bedouin suites under Bortle 2 skies.",
+    "description_ar": "مخيم تراثي وسياحي مرخص يقع في واحة جبة التاريخية بالقرب من مواقع التراث العالمي. يجمع بين الكرم الحائلي الأصيل والرصد الفلكي المتقدم، ويضم تلسكوبات دوبسونية وجولات ليزرية للنجوم وخياماً فندقية مكيفة تحت سماء بورتل 2 النقية.",
+    "amenities": [
+      "Furnished Bedouin Pavilions & Private En-Suite",
+      "12-inch Computerized Dobsonian Telescope",
+      "Certified Saudi Astronomy Storyteller & Guide",
+      "Traditional Haili Campfire Dinner & Saudi Coffee",
+      "Dedicated Astrophotography Charging Lockers",
+      "High-Speed Wi-Fi & Clean Facilities"
+    ],
+    "amenities_ar": [
+      "خيام فندقية مجهزة مع دورات مياه خاصة ومكيفة",
+      "تلسكوب دوبسوني حاسوبي مقاس 12 بوصة",
+      "راوٍ ومرشد فلكي سعودي معتمد",
+      "عشاء حائلي على ضوء النار وقهوة سعودية أصيلة",
+      "خزائن شحن مخصصة لمعدات وبطاريات الكاميرات",
+      "إنترنت سريع ومرافق نظيفة ومتكاملة"
+    ],
+    "highlights": [
+      "Night tours connecting 10,000-year-old rock art with Arabian star constellations",
+      "Bortle 2 dark sky with high atmospheric contrast",
+      "Family-safe and accessible by any sedan or vehicle"
+    ],
+    "highlights_ar": [
+      "جولات ليلية تربط نقوش جبة الصخرية بالاهتداء بالنجوم في التراث العربي",
+      "سماء بورتل 2 ذات تباين بصري استثنائي للنجوم المزدوجة",
+      "آمن تماماً للعائلات وسهل الوصول بجميع أنواع السيارات"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ibex%2C_Jubbah_rock_art_site%2C_Saudi_Arabia.jpg",
+    "contact_phone": "+966 55 987 1122",
+    "booking_price_sar": 520,
+    "is_camp": true,
+    "has_telescopes": true
+  },
+  {
+    "id": "jubbah-umm-sinman-unesco",
+    "name_en": "Jabal Umm Sinman Archaeo-Astronomy Site (UNESCO)",
+    "name_ar": "جبل أم سنمان - الفنون الصخرية والرصد الأثري الفلكي (اليونسكو)",
+    "type": "sanctuary",
+    "category": "UNESCO World Heritage & Archaeo-Reserve",
+    "royal_reserve": "King Salman Royal Natural Reserve (Cultural Sector)",
+    "royal_reserve_ar": "محمية الملك سلمان الملكية (القطاع التراثي)",
+    "bortle_class": 2,
+    "sqm_value": 21.76,
+    "latitude": 28.0069,
+    "longitude": 40.9419,
+    "elevation_m": 835,
+    "distance_from_hail_km": 95,
+    "access_difficulty": "Paved Road + Desert Boardwalk",
+    "access_difficulty_ar": "طريق معبد ومسار خشبي ممهد للزوار",
+    "description_en": "One of the globe's most significant UNESCO rock art sites. Over 10,000 years of petroglyphs carved into golden sandstone crags, reflecting prehistoric pastoral life and celestial orientations. At night, the Milky Way arches directly above these ancient carved stone faces.",
+    "description_ar": "أحد أبرز مواقع التراث العالمي المسجلة باليونسكو في السعودية. يضم نقوشاً صخرية بديعة تمتد لأكثر من 10,000 عام توثق الحياة الإنسانية وحركات الأجرام السماوية. في الليل، يمتد قوس مجرة درب التبانة مباشرة فوق الجبال الرملية المنحوتة.",
+    "amenities": [
+      "UNESCO Heritage Interpretive Center",
+      "Illumination-Controlled Viewing Walkways",
+      "Saudi Heritage Commission Ranger Guards",
+      "Astrophotography Alignment Coordinates"
+    ],
+    "amenities_ar": [
+      "مركز تفسير وتوعية لزوار موقع اليونسكو",
+      "مسارات مشاة خشبية مصممة بإضاءة ليلية خافتة معتمدة",
+      "حراسة وإشراف من هيئة التراث السعودية",
+      "إحداثيات محددة لمحاذاة الكاميرا مع المعالم الصخرية"
+    ],
+    "highlights": [
+      "Unmatched cultural foreground for Milky Way time-lapses",
+      "Rich archaeo-astronomical history dating back to Neolithic Arabia",
+      "Safe and paved access suitable for all ages"
+    ],
+    "highlights_ar": [
+      "مقدمة بصرية فريدة تجمع التاريخ البشري مع عمق الفضاء والمجرة",
+      "تاريخ فلكي أثري يمتد إلى العصر الحجري الحديث في الجزيرة العربية",
+      "مسار معبد وآمن بالكامل لجميع الأعمار"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Jubbah_UNESCO_site_landscape_%2811%29.jpg",
+    "contact_phone": "+966 16 532 9900",
+    "booking_price_sar": 0,
+    "is_camp": false,
+    "has_telescopes": false
+  },
+  {
+    "id": "al-rassifa-ksrnr-domes",
+    "name_en": "Al-Rassifa Geodesic Star Domes - Nafud Royal Buffer",
+    "name_ar": "قباب الرصيفة الفلكية الفاخرة - نطاق محمية الملك سلمان",
+    "type": "camp",
+    "category": "Ultra-Luxury Astro-Resort & Robotic Telescope Suites",
+    "royal_reserve": "King Salman bin Abdulaziz Royal Natural Reserve (Nafud Sector)",
+    "royal_reserve_ar": "محمية الملك سلمان بن عبدالعزيز الملكية (قطاع النفود)",
+    "bortle_class": 1,
+    "sqm_value": 21.94,
+    "latitude": 28.2150,
+    "longitude": 41.1500,
+    "elevation_m": 935,
+    "distance_from_hail_km": 145,
+    "access_difficulty": "Resort 4x4 Escort Provided",
+    "access_difficulty_ar": "نقل ومرافقة بسيارات المنتجع الفارهة ذات الدفع الرباعي",
+    "description_en": "Exclusive transparent geodesic domes situated in the pristine red barchan sands of Al-Nafud within the King Salman Royal Reserve buffer. Guests stargaze through panoramic glass ceilings from custom heated king beds, complete with connected smart robotic telescopes.",
+    "description_ar": "قباب جيوديسية زجاجية بالكامل في قلب كثبان النفود الكبير القرمزية ضمن نطاق حماية محمية الملك سلمان الملكية. تتيح للزوار تأمل النجوم من أسِرّتهم الفارهة المكيفة مع تلسكوبات ذكية روبوتية تنقل صور المجرات مباشرة لشاشات الأجنحة.",
+    "amenities": [
+      "Transparent Ceiling Viewing Domes with Motorized Shades",
+      "Seestar S50 & Celestron Origin Robotic Smart Telescopes",
+      "In-House Astrophotography Editing Workshops",
+      "High-End Bedouin Gastronomy & Private Chef",
+      "Starlink High-Speed Satellite Internet"
+    ],
+    "amenities_ar": [
+      "أسقف بانورامية شفافة مع ستائر إلكترونية عازلة",
+      "تلسكوبات روبوتية ذكية (Seestar و Celestron Origin)",
+      "ورش عمل متخصصة لمعالجة صور الفضاء العميق",
+      "أطباق ومأكولات صحراوية راقية بإشراف طهاة سعوديين",
+      "إنترنت فضائي فائق السرعة عبر Starlink"
+    ],
+    "highlights": [
+      "True Bortle 1 darkness with zero artificial light on the horizon",
+      "Live projection of deep space nebulae to private in-suite screens",
+      "Zero light pollution guarantee compliant with DarkSky International standards"
+    ],
+    "highlights_ar": [
+      "ظلام تام (بورتل 1) مع انعدام أي بريق ضوئي في الأفق",
+      "بث حي لصور السدم البعيدة مباشرة لشاشات الأجنحة الخاصة",
+      "ضمان انعدام التلوث الضوئي وفق معايير منظمة السماء المظلمة الدولية"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/%D8%AA%D9%86%D9%88%D8%B9_%D8%A7%D9%84%D8%BA%D8%B7%D8%A7%D8%A1_%D8%A7%D9%84%D9%86%D8%A8%D8%A7%D8%AA%D9%8A_%D8%A8%D9%8A%D9%86_%D8%AC%D8%A8%D8%A7%D9%84_%D8%A3%D8%AC%D8%A7_%D8%A8%D9%85%D9%86%D8%B7%D9%82%D8%A9_%D8%AD%D8%A7%D8%A6%D9%84.jpg",
+    "contact_phone": "+966 54 888 7766",
+    "booking_price_sar": 1150,
+    "is_camp": true,
+    "has_telescopes": true
+  },
+  {
+    "id": "niyaniyah-grand-dunes",
+    "name_en": "Al-Niyaniyah Grand Barchan Dunes (Nafud Al-Kabir Astrophotography Ridge)",
+    "name_ar": "كثبان النيانية العظمى - النفود الكبير (موقع مصوري الفلك)",
+    "type": "spot",
+    "category": "World-Class Astrophotography Landmark",
+    "royal_reserve": "King Salman bin Abdulaziz Royal Natural Reserve (Nafud Wilderness)",
+    "royal_reserve_ar": "محمية الملك سلمان بن عبدالعزيز الملكية (برية النفود)",
+    "bortle_class": 1,
+    "sqm_value": 21.96,
+    "latitude": 28.1500,
+    "longitude": 41.1200,
+    "elevation_m": 895,
+    "distance_from_hail_km": 110,
+    "access_difficulty": "4x4 Desert Vehicle & Sand Skills",
+    "access_difficulty_ar": "مركبة دفع رباعي وخبرة في القيادة على الكثبان الرملية",
+    "description_en": "Famous among international and Saudi astrophotographers for dramatic towering red sand waves rising over 80 meters. The sharp, wind-sculpted dune crests create a surreal terrestrial horizon beneath the arching arms of the Milky Way galaxy.",
+    "description_ar": "موقع ذائع الصيت لدى مصوري الفلك العالميين والسعوديين؛ حيث ترتفع أمواج الرمال القرمزية الشاهقة لأكثر من 80 متراً. تشكل حواف الكثبان الرملية الحادة المنحوتة بالرياح أفقاً أرضياً ساحراً يتعانق مع ذراع مجرة درب التبانة.",
+    "amenities": [
+      "Natural Wind-Sheltered Dune Depressions",
+      "Compacted Sand Ridges Ideal for Heavy Tripods",
+      "Endemic Desert Al-Ghadha Shrub Silhouettes",
+      "Wide Open 360-Degree Azimuth View"
+    ],
+    "amenities_ar": [
+      "منخفضات رملية مصدّة للرياح توفر ملاذاً طبيعياً للمعدات",
+      "حواف رملية متماسكة مثالية لثبات حوامل الكاميرات الثقيلة",
+      "ظلال شجيرات الغضا الصحراوية لإضافة عناصر تكوين جمالية",
+      "رؤية أفقية مفتوحة 360 درجة بدون أي عوائق تضاريسية"
+    ],
+    "highlights": [
+      "Prime location for Perseid & Geminid meteor shower time-lapses",
+      "Zero light domes in all 360-degree compass directions",
+      "High natural sand acoustic absorption for serene silence"
+    ],
+    "highlights_ar": [
+      "الموقع الأول لتصوير تايم لابس زخات شهب البرشاويات والتوأميات",
+      "غياب تام للقباب الضوئية في كافة الاتجاهات الجغرافية",
+      "امتصاص صوتي طبيعي للرمال يوفر سكينة وهدوءاً مطلقاً"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sand_Dunes_sa.jpg",
+    "contact_phone": "+966 50 333 9911",
+    "booking_price_sar": 0,
+    "is_camp": false,
+    "has_telescopes": false
+  },
+  {
+    "id": "mashar-aja-park",
+    "name_en": "Mashar National Park & Aja Granite Peaks Observatory",
+    "name_ar": "منتزه مشار الوطني ومطل جبال أجا الفلكي",
+    "type": "camp",
+    "category": "Mountain Sky Observatory & Family Eco-Park",
+    "royal_reserve": "Jabal Aja Protected Granite Reserve",
+    "royal_reserve_ar": "محمية جبال أجا الجرانيتية المحمية",
+    "bortle_class": 3,
+    "sqm_value": 21.35,
+    "latitude": 27.5617,
+    "longitude": 41.6272,
+    "elevation_m": 1120,
+    "distance_from_hail_km": 18,
+    "access_difficulty": "Fully Paved City Bypass",
+    "access_difficulty_ar": "طريق معبد بالكامل ومضاء جزئياً حتى المواقف",
+    "description_en": "Nestled in the dramatic pink granite canyon of Mashar in Jabal Aja. The sheer 400-meter mountain walls shield observers from city lights, providing a cool, stable micro-climate with crisp planetary and lunar detail, very close to downtown Hail.",
+    "description_ar": "يقع في وادي مشار الأخاذ المحاط بقمم جرانيتية وردية شاهقة في جبال أجا. تعمل الحوائط الجبلية الطبيعية التي ترتفع 400 متر كحاجز طبيعي يصد أنوار المدينة، مما يوفر مناخاً عليلًا مستقراً ورؤية واضحة لتفاصيل الكواكب والقمر على بعد دقائق من حائل.",
+    "amenities": [
+      "Paved Mountain Roads and Spacious Shaded Parking",
+      "Family Rest Pavilions, Benches, and Restrooms",
+      "Public Telescope Viewing Nights Organised on Weekends",
+      "High-Speed 5G Mobile Coverage & Quick Emergency Access",
+      "Cafeteria and Hot Drinks Available"
+    ],
+    "amenities_ar": [
+      "طرق جبلية معبدة ومواقف سيارات فسيحة ومظللة",
+      "جلسات عائلية ومظلات استراحة ودورات مياه مجهزة",
+      "فعاليات رصد عامة بالتلسكوبات خلال عطلات نهاية الأسبوع",
+      "تغطية شبكة 5G كاملة وسهولة وصول فائقة",
+      "مقهى ومشروبات ساخنة وأكلات خفيفة"
+    ],
+    "highlights": [
+      "Sublime view of the planets (Jupiter's Great Red Spot, Saturn's rings)",
+      "Iconic granite peak silhouettes backlit by the Milky Way",
+      "Only 15 minutes drive from Hail city center"
+    ],
+    "highlights_ar": [
+      "رؤية فائقة الوضوح للكواكب وحلقات زحل وبقعة المشتري الحمراء",
+      "ظلال القمم الجرانيتية المهيبة بخلفية نجوم المجرة",
+      "15 دقيقة فقط بالسيارة من وسط مدينة حائل"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/%D8%AC%D8%A8%D8%A7%D9%84_%D8%A3%D8%AC%D8%A7.jpg",
+    "contact_phone": "+966 16 531 2244",
+    "booking_price_sar": 180,
+    "is_camp": true,
+    "has_telescopes": true
+  },
+  {
+    "id": "shuwaymis-unesco-reserve",
+    "name_en": "Shuwaymis Archaeo-Astronomy Reserve (Harrat Al-Nar UNESCO)",
+    "name_ar": "محمية الشويمس للتراث الفلكي - حرة النار (اليونسكو)",
+    "type": "sanctuary",
+    "category": "Pristine Archaeo-Astronomy Sanctuary",
+    "royal_reserve": "Southern Hail Protected Geological & Heritage Area",
+    "royal_reserve_ar": "منطقة الشويمس وحرة النار الجيولوجية المحمية",
+    "bortle_class": 1,
+    "sqm_value": 21.97,
+    "latitude": 26.2411,
+    "longitude": 40.3528,
+    "elevation_m": 1060,
+    "distance_from_hail_km": 245,
+    "access_difficulty": "4x4 Guided Expedition Required",
+    "access_difficulty_ar": "يتطلب مرافقة مرشد محلي وسيارة دفع رباعي",
+    "description_en": "Located in southwest Hail where black volcanic basalt fields of Harrat Al-Nar meet deep desert wadis. Officially designated a UNESCO World Heritage site, it holds Neolithic carvings and stone cairns aligned with solstice sunrise and celestial constellations under total dark Bortle 1 skies.",
+    "description_ar": "تقع جنوب غرب حائل حيث تلتقي حقول البازلت البركاني الأسود في حرة النار مع الأودية الصحراوية العميقة. موقع تراث عالمي باليونسكو يضم نقوشاً ومقابر حجرية يعتقد بمحاذاتها لحركات النجوم والانقلاب الشمسي تحت سماء حالكة ونقية (بورتل 1).",
+    "amenities": [
+      "Extreme Wilderness Deep-Sky Zone",
+      "DarkSky International Verified Sky Quality",
+      "Licensed Archaeo-Astronomer Field Guides",
+      "Expedition Campsite Designations"
+    ],
+    "amenities_ar": [
+      "منطقة فضاء عميق برية شديدة العذرية",
+      "جودة سماء موثقة وفق أعلى معايير منظمة دارك سكاي",
+      "مرشدون ميدانيون متخصصون في التراث والآثار الفلكية",
+      "مواقع مخصصة لتخييم الفرق الاستكشافية"
+    ],
+    "highlights": [
+      "One of the lowest measured light pollution spots in the Middle East (SQM 21.97)",
+      "Gegenschein and full Zodiacal band visible to the naked eye",
+      "Ancient volcanic landscape reminiscent of lunar and Martian terrains"
+    ],
+    "highlights_ar": [
+      "أدنى تلوث ضوئي مقاس في الشرق الأوسط (SQM 21.97)",
+      "رؤية حزام الضوء البروجي والوهج المقابل (Gegenschein) بالعين المجردة",
+      "تضاريس بركانية تحاكي أسطح القمر والمريخ"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%D9%85%D9%86_%D8%A2%D8%AB%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85_%D8%A7%D9%84%D8%B5%D8%AE%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D9%88%D9%82%D8%B9_%D8%AC%D8%A8%D8%A9_%D9%88%D8%A7%D9%84%D8%B4%D9%88%D9%8A%D9%85%D8%B3_%D8%A8%D8%AD%D8%A7%D8%A6%D9%84.jpg",
+    "contact_phone": "+966 50 777 3344",
+    "booking_price_sar": 450,
+    "is_camp": true,
+    "has_telescopes": true
+  },
+  {
+    "id": "tuwarin-hatim-valley",
+    "name_en": "Tuwarin Historic Valley & Hatim Al-Tai Sky Lookout",
+    "name_ar": "قرية توارن التاريخية ومطل وادي حاتم الطائي الفلكي",
+    "type": "spot",
+    "category": "Cultural Heritage & Night Sky Observation",
+    "royal_reserve": "Jabal Aja Protected Heritage Corridor",
+    "royal_reserve_ar": "الممر التراثي المحمي بجبال أجا",
+    "bortle_class": 2,
+    "sqm_value": 21.68,
+    "latitude": 27.6350,
+    "longitude": 41.5200,
+    "elevation_m": 1040,
+    "distance_from_hail_km": 52,
+    "access_difficulty": "Paved Road into Mountain Valley",
+    "access_difficulty_ar": "طريق معبد يخترق الوادي الجبلي",
+    "description_en": "The ancestral home and valley of legendary Arabian poet and symbol of hospitality, Hatim Al-Tai. Sheltered inside the northern reaches of Jabal Aja, the valley boasts towering granite spires and quiet starlit canyons steeped in Arabian history.",
+    "description_ar": "موطن ومسكن الشاعر العربي الشهير ورمز الكرم العربي حاتم الطائي. يقع في قلب شعب وادي توارن بشمال جبال أجا، وتحيط به مسلات جرانيتية شامخة وقنوات صخرية هادئة تعبق بعبق التاريخ وتضاء ببريق ملايين النجوم.",
+    "amenities": [
+      "Historical Walking Trail to Hatim Al-Tai's Tomb & Palace",
+      "Wind-Sheltered Canyon Stargazing Clearings",
+      "Local Heritage Café & Bedouin Fire Circle",
+      "Paved Mountain Access"
+    ],
+    "amenities_ar": [
+      "مسار مشي تاريخي يؤدي إلى قصر وقبر حاتم الطائي",
+      "مساحات رصد مستوية في قاع الوادي مصدّة للرياح تماماً",
+      "مقهى تراثي وجلسة سمر نار بدوية في الهواء الطلق",
+      "طريق معبد حتى مشارف القرية التاريخية"
+    ],
+    "highlights": [
+      "Rich poetic history of navigating desert nights by the North Star and Pleiades",
+      "Granite canyon walls framing vertical Milky Way core shots",
+      "Pleasantly cool microclimate during spring and autumn"
+    ],
+    "highlights_ar": [
+      "استحضار تاريخ الشعر العربي والاهتداء بنجم الجدي والثريا وسهيل",
+      "حوائط الوادي الجرانيتية تؤطر صوراً عمودية مذهلة لمركز المجرة",
+      "طقس معتدل وبارد عليل خلال فصلي الخريف والربيع"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Castle_Of_Hatim_At-tai_Tuwarin_-_Ha%27il.jpg",
+    "contact_phone": "+966 56 444 8822",
+    "booking_price_sar": 0,
+    "is_camp": false,
+    "has_telescopes": false
+  },
+  {
+    "id": "baqaa-lake-oasis",
+    "name_en": "Baq'aa Natural Lake & Starlit Salt Basin",
+    "name_ar": "بحيرة وسبخة بقعاء الفلكية (انعكاس النجوم المائي)",
+    "type": "spot",
+    "category": "Star Reflection Astrophotography & Wetland",
+    "royal_reserve": "Eastern Hail Wetland & Desert Basin",
+    "royal_reserve_ar": "حوض بقعاء البيئي وسبخة شرق حائل",
+    "bortle_class": 2,
+    "sqm_value": 21.72,
+    "latitude": 27.8736,
+    "longitude": 42.3908,
+    "elevation_m": 760,
+    "distance_from_hail_km": 85,
+    "access_difficulty": "Paved Road to Lake Basin",
+    "access_difficulty_ar": "طريق معبد حتى مشارف حوض البحيرة",
+    "description_en": "A rare natural water basin and seasonal desert wetland east of Hail. On calm desert nights, the glassy, still surface of the saline lake provides mirrored reflections of the constellations, the Moon, and the Milky Way.",
+    "description_ar": "حوض مائي طبيعي وسبخة بيئية موسمية تقع في محافظة بقعاء شرق حائل. في الليالي الصحراوية الهادئة، يتحول سطح الماء الصافي إلى مرآة عاكسة تلتقط بريق المجموعات النجمية والقمر وقوس درب التبانة.",
+    "amenities": [
+      "Waterfront Dry Embankment Observation Points",
+      "Direct Road Access Suitable for Standard Sedans",
+      "Scenic Wetland Photography Foreground"
+    ],
+    "amenities_ar": [
+      "نقاط رصد مرتفعة وجافة على ضفاف حوض الماء",
+      "طريق معبد وسهل مناسب لجميع السيارات الصغيرة",
+      "مقدمة بصرية مائية نادرة في قلب الصحراء"
+    ],
+    "highlights": [
+      "Rare double-reflection astrophotography of the Milky Way across still waters",
+      "Gentle micro-breeze and calm atmosphere",
+      "Ideal location for Moon reflection and conjunction shots"
+    ],
+    "highlights_ar": [
+      "تصوير انعكاس مزدوج نادر لقوس مجرة درب التبانة على سطح الماء",
+      "أجواء ليلية هادئة ونقية",
+      "موقع مثالي لتوثيق اقتران الكواكب وانعكاسات أطوار القمر"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Desert_dunes_of_the_kingdom_of_saudi_arabia_-_panoramio.jpg",
+    "contact_phone": "+966 55 222 6655",
+    "booking_price_sar": 0,
+    "is_camp": false,
+    "has_telescopes": false
+  }
+]
